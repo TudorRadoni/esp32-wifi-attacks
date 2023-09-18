@@ -1,0 +1,33 @@
+Scan done! ✅
+22 networks found:
+ID  SSID                              MAC                CH  ENC
+-------------------------------------------------------------------------
+ 1  A2-c                              B8:DD:71:E5:C2:63   9  WPA_WPA2_PSK
+ 2  DIGI-5tyt                         04:20:84:12:B7:1F   1  WPA2_PSK
+ 3  ASUSHN                            F0:79:59:EB:A2:10   4  WPA2_PSK
+ 4  AndreiNinaFlorin                  F8:1A:67:DE:E5:08   1  WPA2_PSK
+ 5  nero2.4ghz                        F0:79:59:EB:A2:13   4  WPA2_PSK
+ 6  BodyPriority                      80:8C:97:73:D2:B0   1  WPA2_PSK
+ 7  ASUSHN2                           F0:79:59:EB:A2:11   4  WPA_WPA2_PSK
+ 8  ASUS_Guest                        F0:79:59:EB:A2:12   4  WPA2_PSK
+ 9  TP-Link_94FA                      60:32:B1:FE:94:FA   9  WPA2_PSK
+10  Kasem2                            80:8C:97:74:29:1D   1  WPA2_PSK
+11  DIGI_4312d0                       6C:A4:D1:43:12:D0   1  WPA2_PSK
+12  Tenda_8CD120                      58:D9:D5:8C:D1:21   4  WPA_WPA2_PSK
+13  Raul                              04:95:E6:8B:5C:C1   1  WPA_WPA2_PSK
+14  DIGI-Q635                         40:7D:0F:95:E8:40   2  WPA_WPA2_PSK
+15  DIGI-93sx                         DC:21:E2:8E:A0:F8   4  WPA_WPA2_PSK
+16                                    66:32:B1:FE:94:FA   9  WPA2_PSK
+17  Sitaru                            C8:3A:35:04:BE:E0  10  WPA_PSK
+18  NSA Surveillance Hub Zorilor      C8:B3:73:07:90:9A   1  WPA_WPA2_PSK
+19  ROS                               D8:47:32:51:BE:BA   1  WPA2_PSK
+20                                    DE:07:B6:8A:4B:6B  12  WPA2_PSK
+21  DIGI_f4f4f4                       F8:64:B8:F4:F4:F4   9  WPA_WPA2_PSK
+22  TP-Link_4B6B                      D8:07:B6:8A:4B:6B  12  WPA_WPA2_PSK
+
+Creating AP... 📡
+AP created! ✅
+  SSID : A2
+  MAC  : 74:4D:28:36:01:60
+  CH   : 1
+  ENC  : TODO

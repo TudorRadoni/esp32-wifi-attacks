@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "string": "cpp",
+        "promiscuous": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Stuff/Projects/ESP/ESP32-Wifi/.pio/libdeps/esp32-c3-devkitc-02/Unity"
+}
